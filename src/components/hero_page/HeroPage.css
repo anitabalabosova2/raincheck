@@ -47,20 +47,20 @@ body,
 }
 
 .nav-center a:hover {
-  color: #fbff00;
+  color: #f5d050;
 }
 
 .nav-right .cta {
   background: transparent;
-  color: #fbff00;
-  border: 1px solid #fbff00;
+  color: #f5d050;
+  border: 1px solid #f5d050;
   padding: 10px 18px;
   font-size: 13px;
   cursor: pointer;
 }
 
 .nav-right .cta:hover {
-  background: #fbff00;
+  background: #f5d050;
   color: #111;
 }
 
@@ -89,7 +89,7 @@ body,
 }
 
 .highlight {
-  color: #fbff00;
+  color: #f5d050;
   font-weight: 600;
 }
 
@@ -97,7 +97,7 @@ body,
   display: inline-block;
   margin-top: 20px;
   font-size: 18px;
-  color: #fbff00;
+  color: #f5d050;
   text-decoration: none;
 }
 
